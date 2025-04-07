@@ -1,4 +1,4 @@
-const apikey = '0aef41e820154ab29b0ed5c9ff3b391c'
+const apikey = process.env.NEWS_API_KEY 
 
 const blogcontainer = document.getElementById("blog-cont");
 const searchFeild = document.getElementById("search-input");
