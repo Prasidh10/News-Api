@@ -1,5 +1,5 @@
 {
-  "name": "news-api",
+  "name": "news-api-dashboard",
   "version": "1.0.0",
   "description": "News API application",
   "main": "index.js",
